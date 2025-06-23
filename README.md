@@ -4,4 +4,4 @@ A project directory to practice bash commands and learn how to submit jobs to Hy
 Started June 23 by Spencer Toth 
 Biocode 2.0 Internship
 
- 
+ practice  practice
